@@ -1,0 +1,10 @@
+textarea
+{
+	resize: none;
+}
+
+#grades
+{
+	height: 300px;
+	resize: both;
+}
